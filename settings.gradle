@@ -1,0 +1,4 @@
+include ':InterfacePrograms'
+include ':standardJavaPrograms'
+include ':app'
+rootProject.name = "standardJavaTest"
